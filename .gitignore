@@ -1,0 +1,16 @@
+server.out.log
+server.err.log
+storage/sessions/sess_*
+
+
+.vs/
+.env
+.env.*
+!.env.example
+*.log
+*.user
+*.suo
+*.pem
+*.key
+*.pfx
+
